@@ -8,5 +8,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="selenium-java-3.141" level="project" />
+    <orderEntry type="library" name="testng-7.1.0" level="project" />
+    <orderEntry type="library" name="guice-4.1.0-classes (2)" level="project" />
   </component>
 </module>
